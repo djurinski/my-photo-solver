@@ -18,7 +18,7 @@ How to use?
 	-model accuracy on test data is about 84% but dataset is rather bad, 3 sources (one source for brackets, myself as source for divided and to few of samples, and third for all others)
 	-to train model again uncomment line 41-57 in prepareTrainig and execute, then execute trainModel, it will automaticly save
 	-about accuracy, since dataset is bad (look nines or brackets) it doesn't predict good on my handwriting
-	-final part is not finished, it's still implemented vith eval() method
+	-final part is not finished, it's still implemented with eval() method
 
 TO BE DONE:
 
